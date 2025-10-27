@@ -40,5 +40,5 @@ resultado_and=(a!=0) and(b!=1)
 resultado_or=(a!=0) or(b!=1)
 resultado_not= not(a==1)
 
-
+#Voy a cargarme git xd
 
